@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Almir Lima Jr."
+date: "18/06/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+This is a test of the integration of GitHub to RStudio, created as a requirement to apply for a certificate for "The Data Scientist's Toolbox" course in Coursera.
